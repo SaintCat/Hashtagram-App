@@ -1,0 +1,14 @@
+/*.gridwithpics128px .imagecol {
+    display:block;
+    height: "250";
+    width: "250"
+}*/
+.v-table-table th,
+.v-table-table td{
+    height: 55px;
+    /* min-height: 55px; EDITED */
+}
+.wrapLine{
+   word-wrap: break-word; /* IE  */
+   white-space: -moz-pre-wrap; /* Firefox */
+}
